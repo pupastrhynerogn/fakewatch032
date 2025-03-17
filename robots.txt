@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://pupastrhynerogn.github.io/fakewatch001//sitemap.xml
